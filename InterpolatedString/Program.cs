@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using InterpolatedString;
+
 Console.WriteLine("Hello, World!");
 
 var logger = new Logger() { EnabledLevel = LogLevel.Warning };

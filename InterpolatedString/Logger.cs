@@ -1,7 +1,7 @@
 ﻿using System.Runtime.CompilerServices;
 using System.Text;
 
-namespace ConsoleApp1;
+namespace InterpolatedString;
 public enum LogLevel
 {
     Off,
